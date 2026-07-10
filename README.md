@@ -2,7 +2,6 @@
   <img src="banner.png" alt="Olasubomi Odujebe Banner" width="100%">
 </p>
 
-## Hi there 👋
 # Hi 👋, I'm Olasubomi
 
 I'm passionate about using financial and economic data to uncover meaningful insights. My work focuses on financial analytics, economic research, data visualization, and investment analysis.
@@ -11,7 +10,7 @@ I'm passionate about using financial and economic data to uncover meaningful ins
 
 ## 📊 Featured Projects
 
-### 🇨🇦 Canada Inflation Analysis
+### Canada Inflation Analysis
 Exploratory analysis of Canada's inflation trends (2015–2026) using Statistics Canada data.
 
 - 🌐 **Live Report:** https://olasubomi-odujebe.github.io/canada-inflation-analysis/
