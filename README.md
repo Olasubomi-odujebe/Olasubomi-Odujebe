@@ -35,7 +35,7 @@ I'm passionate about using financial and economic data to uncover meaningful ins
 
 ## 🚀 Featured Projects
 
-### 🇨🇦 Canada Inflation Analysis
+### Canada Inflation Analysis
 
 Exploratory analysis of Canada's inflation trends using official Statistics Canada data.
 
